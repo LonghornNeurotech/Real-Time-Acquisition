@@ -1,1 +1,1 @@
-# Real-Time-Acquisition
+# Real-Time-Signal-Acquisition
